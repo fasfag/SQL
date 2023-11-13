@@ -1,0 +1,1 @@
+Sprawdzenie jakie sprawy uprawomocniły się w zadanym czasie (od daty pierwotnego wpływu)
